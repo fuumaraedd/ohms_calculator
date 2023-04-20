@@ -1,16 +1,6 @@
 # ohms_calculator
+![Screenshot_1681961652](https://user-images.githubusercontent.com/129939405/233258632-adb36c15-d6ee-442e-9855-9ecfcd8f5040.png)
+![Screenshot_1681961658](https://user-images.githubusercontent.com/129939405/233258682-8a8f0543-cc91-455a-810e-07c702f3abd6.png)
+![Screenshot_1681961623](https://user-images.githubusercontent.com/129939405/233258663-e020efbc-a12a-425b-bfac-6adab28887a3.png)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
